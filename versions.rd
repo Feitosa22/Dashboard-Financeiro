@@ -1,9 +1,9 @@
 Adicionar cadastro de usuários!
-Adicionar checagem no envio do email
+Adicionar checagem no envio do email!
 ou
-Adicionar confirmação de email para enviar email
+Adicionar confirmação de email para enviar email!
 ou Estar logado para enviar email
-Adicionar Metricas!
+Adicionar catche!
 
 // https://www.tremor.so/
 // https://www.chartjs.org/
