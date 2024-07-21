@@ -1,10 +1,4 @@
-Adicionar cadastro de usuários!
-Adicionar checagem no envio do email!
-ou
-Adicionar confirmação de email para enviar email!
-ou Estar logado para enviar email
-Adicionar catche!
-
-// https://www.tremor.so/
-// https://www.chartjs.org/
-// https://airbnb.io/visx/
+1. Adicionar cadastro de usuários!
+2. Adicionar checagem no envio do email!
+3. Add Skeleton nas pesquisas.
+4. Criar um gerador de CPF
